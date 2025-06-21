@@ -1,8 +1,8 @@
-# PROJECTNAM
+# Detection and Response
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+I impleted a Detection and Response lab to simulate real world cybersecurity incidents and strenghen defensive capabilities. The primary objective of this lab was to enhanced my skills in threat detection, log analysis, and incident response using industry standard tools such as SIEMS, Suricata and WIreshark. I was able to replicate attack scenerios, practice the incident response lifestyle, from detection and cointainment to eradication and recovery and developed custom detection rules to identify various threat behaviours. The lab also allowed me to validate security configurations. This hands-on experience significantly improved my ability to analyze malicious activity, respond effectively to incidents and reinforced overall cybersecurity rediness.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
