@@ -18,7 +18,7 @@ I impleted a Detection and Response lab to simulate real world cybersecurity inc
 - Kali Linux Tools – I used tools like Nmap for network scanning and traffic simulation to test detection rules.
 - YARA- I wrote and tested custom YARA rules to detect specific malware patterns and suspicious file behavior.
 - SQL- I used SQL-like queries to gather system-level data and identify unusual or unauthorized activity on endpoints.
-- Snort/ SUricata– These tools allowed me to detect and respond to intrusion attempts by analyzing live network traffic.
+- Snort/ Suricata– These tools allowed me to detect and respond to intrusion attempts by analyzing live network traffic.
 - Google Chronicle – I used this cloud-native SIEM to ingest and analyze logs at scale. It helped me investigate threats faster by leveraging Chronicle's high-speed search and threat intelligence.
 - Log Forwarder – I set up and configured a log forwarder to securely collect and transmit logs from multiple sources to the SIEM.
   
@@ -27,5 +27,6 @@ I impleted a Detection and Response lab to simulate real world cybersecurity inc
 *Ref 1: Pyramid of Change
 https://imgur.com/a/D9LUHBl
 https://imgur.com/S2WJyqb
+
 *Ref 2:
-h
+
