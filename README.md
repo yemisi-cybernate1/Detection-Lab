@@ -15,7 +15,6 @@ I impleted a Detection and Response lab to simulate real world cybersecurity inc
 
 - Wireshark- I analyzed Network packets and Identified suspicious traffic patterns
 - SIEM Platforms (e.g., Splunk) – I explored log ingestion pipelines and created basic search queries to identify suspicious events and alerts.
-- Kali Linux Tools – I used tools like Nmap for network scanning and traffic simulation to test detection rules.
 - YARA- I wrote and tested custom YARA rules to detect specific malware patterns and suspicious file behavior.
 - SQL- I used SQL-like queries to gather system-level data and identify unusual or unauthorized activity on endpoints.
 - Snort/ Suricata– These tools allowed me to detect and respond to intrusion attempts by analyzing live network traffic.
