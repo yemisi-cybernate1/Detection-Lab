@@ -27,5 +27,3 @@ I impleted a Detection and Response lab to simulate real world cybersecurity inc
 https://imgur.com/a/D9LUHBl
 https://imgur.com/S2WJyqb
 
-*Ref 2:
-
